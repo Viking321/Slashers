@@ -22,6 +22,7 @@ LANG["class_desc_ghostface"] = "Você possui a habilidade de ver quando um sobre
 LANG["class_desc_myers"] = "Você é o assassino mais lento e possui a habilidade de focar um sobrevivente por vez. Use-a para assustar sobreviventes e matá-los rapidamente. Escute bem, pois você pode ouvir a batida do coração dos sobreviventes."
 LANG["class_desc_proxy"] = "Você possui a habilidade de aparecer e desaparecer quando não estiver visível a um sobrevivente. Use-a para assusstar suas vítimas. Pressione o botão menu ('A' como principal) para usar-lá. Escute bem, pois você pode ouvir a batida do coração dos sobreviventes."
 LANG["class_desc_intruder"] = "Você tem a habilidade de colocar armadilhas para matar sobreviventes. Use suas cordas de alerta para localizar sobreviventes, suas armadilhas de urso para neutralizar-los e o machado de porta para uma morte surpresa. Escute bem, pois você pode ouvir a batida do coração dos sobreviventes."
+LANG["class_desc_bates"] = "Use o corpo de sua mãe para ajudar a localizar os sobreviventes. Quanto mais próximo um sobrevivente estiver perto do corpo, mais rápido você irá ficar. Cuidado, pois se alguém achar o corpo, a polícia irá ser chamada imediatamente. Escute bem, pois você pode ouvir a batida do coração dos sobreviventes."
 
 LANG["round_mission_police"] = "A polícia chegará em %s"
 LANG["round_mission_police_killer"] = "Mate todos eles %s"
@@ -51,7 +52,7 @@ LANG["round_end_dead"] = "Os sobreviventes foram erradicados"
 
 -- Modules
 LANG["antiafk_will_kicked"] = "Você será kickado do servidor por inatividade em %s"
-LANG["f1menu_you_are"] = "Você é o/a %s"
+LANG["f1menu_you_are"] = "Você é %s"
 LANG["workshop_need_content"] = "Você precisará de conteúdo extra do Steam Workshop"
 LANG["workshop_get_it"] = "Me leve até ele!"
 LANG["workshop_no"] = "Não quero."
